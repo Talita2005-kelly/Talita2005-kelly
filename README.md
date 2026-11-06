@@ -1,24 +1,76 @@
-# Hi, I'm Talita! 👋
 
-### Computer Science Student
+<div align="center">
 
-I'm a Computer Science student at Schiller International University, interested in programming and software development.
+# Hello, World! ♡
 
-### About Me
-- 🎓 Currently studying Computer Science
-- 💻 Exploring different areas of technology
-- 🌱 Learning Java, Python, and SQL
-- 🔍 Interested in building practical projects
-- 🌍 Based in Paris, France
+### I'm Talita.
 
-### Technologies & Tools
-- Java
-- Python
-- SQL
-- Git & GitHub
+**Computer Science Student | Aspiring Software Developer**
 
-### Projects
+📍 Paris, France
+
+*Exploring technology, learning by building, and growing one project at a time.*
+
+</div>
+
+---
+
+## 🍒 About Me
+
+Hi! I'm a Computer Science student at **Schiller International University**.
+
+I'm interested in programming, software development, and exploring different areas of technology.
+
+- 🎓 Currently studying Computer Science.
+- 💻 Exploring Java, Python, and SQL.
+- 🌱 Learning through academic and personal projects.
+- 🌍 Based in Paris, France.
+
+---
+
+## 💻 Technologies & Tools
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-7B344B?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8E4963?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-A65D75?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-653044?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-35151F?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🌷 What I'm Exploring
+
+- Programming fundamentals
+- Database management
+- Software development
+- Artificial Intelligence
+
+---
+
+## 🚀 Projects
+
+*Learning, experimenting, and building new things.*
+
 More projects coming soon!
 
-### Connect With Me
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talita-baptista-cs/)
+---
+
+## 🤍 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8E4963?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talita-baptista-cs/)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting my profile! ♡*
+
+</div>
