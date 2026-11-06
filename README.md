@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="github-banner.png" width="100%" alt="Talita's GitHub Banner">
+</div>
 
 <div align="center">
 
