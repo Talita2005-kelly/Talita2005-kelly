@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Talita! 👋
 
-<!--
-**Talita2005-kelly/Talita2005-kelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Schiller International University, interested in programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎓 Currently studying Computer Science
+- 💻 Exploring different areas of technology
+- 🌱 Learning Java, Python, and SQL
+- 🔍 Interested in building practical projects
+- 🌍 Based in Paris, France
+
+### Technologies & Tools
+- Java
+- Python
+- SQL
+- Git & GitHub
+
+### Projects
+More projects coming soon!
+
+### Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talita-baptista-cs/)
