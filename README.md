@@ -35,11 +35,11 @@ I'm interested in programming, software development, and exploring different are
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-7B344B?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8E4963?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-A65D75?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-653044?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-35151F?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,git,github&theme=light" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-8E4963?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </div>
 
